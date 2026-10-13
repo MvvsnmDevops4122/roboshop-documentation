@@ -1,6 +1,6 @@
 # RoboShop 3 Tier Architecture
 
-![RoboShop 3 Tier Architecture](roboshop-architecture.png)
+<img width="851" height="521" alt="roboshop" src="https://github.com/user-attachments/assets/8bb02c4b-337f-460e-bd26-d1d1b34471d2" />
 
 RoboShop is an online robot store built from small services. Each service runs on its own EC2 server (RHEL 9) and is managed by `systemd`.
 
